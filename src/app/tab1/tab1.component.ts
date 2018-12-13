@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+// import { NatureEg } from '../natureEG/natureEG.component.spec'
 
 @Component({
   selector: 'app-tab1',
@@ -11,5 +12,9 @@ export class Tab1Component implements OnInit {
 
   ngOnInit() {
   }
+
+  // onNatureEG(){
+    
+  // }
 
 }
